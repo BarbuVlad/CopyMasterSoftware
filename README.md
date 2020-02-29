@@ -8,16 +8,16 @@ The copying restrictions/options are:
   - Copy files modified at date
   - Copy files created at date 
   - Copy files with size less than (in KB MB or GB)
-  ### This options can be combined in any way
+   ######This options can be combined in any way
 2. **Selective options**:
   - Copy only image files 
     - Image size(pixel X pixel)
     
   - Copy only video files
     - Video length(HH:MM:SS)
-  ###This options are mutually exclusive (only one can be used at once)
+  ######This options are mutually exclusive (only one can be used at once)
 3. **Advanced options**
   - Copy files without folder structure 
   - Overwrite existing files 
-  ### This options can be combined in any way
+  ######This options can be combined in any way
   
